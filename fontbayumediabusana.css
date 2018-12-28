@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'busanaberfashion';
+  src:  url('fonts/busanaberfashion.eot?2bjdtl');
+  src:  url('fonts/busanaberfashion.eot?2bjdtl#iefix') format('embedded-opentype'),
+    url('fonts/busanaberfashion.ttf?2bjdtl') format('truetype'),
+    url('fonts/busanaberfashion.woff?2bjdtl') format('woff'),
+    url('fonts/busanaberfashion.svg?2bjdtl#busanaberfashion') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'busanaberfashion' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.b2-baju-wanita-grs:before {
+  content: "\e900";
+}
+.b2-baju-wanita:before {
+  content: "\e901";
+}
+.b2-baju-laki-laki-grs:before {
+  content: "\e902";
+}
+.b2-baju-laki-laki:before {
+  content: "\e903";
+}
+.b2-baju-anak-laki-laki-grs:before {
+  content: "\e904";
+}
+.b2-baju-anak-laki-laki:before {
+  content: "\e905";
+}
+.b2-baju-anak-perempuan-grs:before {
+  content: "\e906";
+}
+.b2-baju-anak-perempuan:before {
+  content: "\e907";
+}
+.b2-baju-muslim-wanita-grs:before {
+  content: "\e908";
+}
+.b2-baju-muslim-wanita:before {
+  content: "\e909";
+}
+.b2-baju-muslim-laki-laki-grs:before {
+  content: "\e90a";
+}
+.b2-baju-muslim-laki-laki:before {
+  content: "\e90b";
+}
+.b2-baju-muslim-anak-laki-laki-grs:before {
+  content: "\e90c";
+}
+.b2-baju-muslim-anak-laki-laki:before {
+  content: "\e90d";
+}
+.b2-baju-muslim-anak-perempuan-grs:before {
+  content: "\e90e";
+}
+.b2-baju-muslim-anak-perempuan:before {
+  content: "\e90f";
+}
