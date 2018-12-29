@@ -1,0 +1,278 @@
+@font-face {
+  font-family: 'Font-Bayu-Media-Busana-Light';
+  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?d7u362');
+  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?d7u362#iefix') format('embedded-opentype'),
+    url('fonts/Font-Bayu-Media-Busana-Light.ttf?d7u362') format('truetype'),
+    url('fonts/Font-Bayu-Media-Busana-Light.woff?d7u362') format('woff'),
+    url('fonts/Font-Bayu-Media-Busana-Light.svg?d7u362#Font-Bayu-Media-Busana-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Font-Bayu-Media-Busana-Light' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bm{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.bm-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.bm-xs{font-size:.75em}.bm-sm{font-size:.875em}.bm-1x{font-size:1em}.bm-2x{font-size:2em}.bm-3x{font-size:3em}.bm-4x{font-size:4em}.bm-5x{font-size:5em}.bm-6x{font-size:6em}.bm-7x{font-size:7em}.bm-8x{font-size:8em}.bm-9x{font-size:9em}.bm-10x{font-size:10em}.bm-fw{text-align:center;width:1.25em}.bm-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.bm-ul>li{position:relative}.bm-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.bm-border{border:.08em solid #eee;border-radius:.1em;padding:.2em .25em .15em}.bm-pull-left{float:left}.bm-pull-right{float:right}.fa.bm-pull-left,.fab.bm-pull-left,.fal.bm-pull-left,.far.bm-pull-left,.fas.bm-pull-left{margin-right:.3em}.fa.bm-pull-right,.fab.bm-pull-right,.fal.bm-pull-right,.far.bm-pull-right,.fas.bm-pull-right{margin-left:.3em}.bm-spin{animation:bm-spin 2s infinite linear}.bm-pulse{animation:bm-spin 1s infinite steps(8)}@keyframes bm-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.bm-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";transform:rotate(90deg)}.bm-rotate-180{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";transform:rotate(180deg)}.bm-rotate-270{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";transform:rotate(270deg)}.bm-flip-horizontal{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";transform:scaleX(-1)}.bm-flip-vertical{transform:scaleY(-1)}.bm-flip-horizontal.bm-flip-vertical,.bm-flip-vertical{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)"}.bm-flip-horizontal.bm-flip-vertical{transform:scale(-1)}:root .bm-flip-horizontal,:root .bm-flip-vertical,:root .bm-rotate-90,:root .bm-rotate-180,:root .bm-rotate-270{filter:none}.bm-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}.bm-stack-1x,.bm-stack-2x{left:0;position:absolute;text-align:center;width:100%}.bm-stack-1x{line-height:inherit}.bm-stack-2x{font-size:2em}.bm-inverse{color:#fff}
+.bml-baju-anak-laki-laki:before {
+  content: "\e900";
+}
+.bml-baju-anak-perempuan:before {
+  content: "\e901";
+}
+.bml-baju-laki-laki:before {
+  content: "\e902";
+}
+.bml-baju-muslim-anak-laki-laki:before {
+  content: "\e903";
+}
+.bml-baju-muslim-anak-perempuan:before {
+  content: "\e904";
+}
+.bml-baju-muslim-laki-laki:before {
+  content: "\e905";
+}
+.bml-baju-muslim-wanita:before {
+  content: "\e906";
+}
+.bml-baju-wanita:before {
+  content: "\e907";
+}
+.bml-batik-laki-laki:before {
+  content: "\e908";
+}
+.bml-batik-wanita:before {
+  content: "\e909";
+}
+.bml-alarm-cepat:before {
+  content: "\e90a";
+}
+.bml-arah-atas:before {
+  content: "\e90b";
+}
+.bml-bantuan1:before {
+  content: "\e90c";
+}
+.bml-bendera:before {
+  content: "\e90d";
+}
+.bml-bintang:before {
+  content: "\e90e";
+}
+.bml-blibli:before {
+  content: "\e90f";
+}
+.bml-blogger-b:before {
+  content: "\e910";
+}
+.bml-blogger-bulat:before {
+  content: "\e911";
+}
+.bml-box .path1:before {
+  content: "\e912";
+  color: rgb(102, 102, 102);
+}
+.bml-box .path2:before {
+  content: "\e913";
+  margin-left: -1.3037109375em;
+  color: rgb(51, 44, 43);
+}
+.bml-bukalapak:before {
+  content: "\e914";
+}
+.bml-cari:before {
+  content: "\e915";
+}
+.bml-cart:before {
+  content: "\e916";
+}
+.bml-ceklis:before {
+  content: "\e917";
+}
+.bml-deskripsi-produk:before {
+  content: "\e918";
+}
+.bml-diskusi-produk:before {
+  content: "\e919";
+}
+.bml-elevenia:before {
+  content: "\e91a";
+}
+.bml-ember:before {
+  content: "\e91b";
+}
+.bml-facebook-bulat:before {
+  content: "\e91c";
+}
+.bml-facebook-f:before {
+  content: "\e91d";
+}
+.bml-facebook-marketplace:before {
+  content: "\e91e";
+}
+.bml-facebook-messenger:before {
+  content: "\e91f";
+}
+.bml-google-plus:before {
+  content: "\e920";
+}
+.bml-google-plus-bulat:before {
+  content: "\e921";
+}
+.bml-info-bulat1:before {
+  content: "\e922";
+}
+.bml-info-bulat2:before {
+  content: "\e923";
+}
+.bml-kategori:before {
+  content: "\e924";
+}
+.bml-komentar:before {
+  content: "\e925";
+}
+.bml-lazada:before {
+  content: "\e926";
+}
+.bml-logo-blibli:before {
+  content: "\e927";
+}
+.bml-logo-bukalapak:before {
+  content: "\e928";
+}
+.bml-logo-elevenia:before {
+  content: "\e929";
+}
+.bml-logo-facebook-marketplace1:before {
+  content: "\e92a";
+}
+.bml-logo-facebook-marketplace2:before {
+  content: "\e92b";
+}
+.bml-logo-lazada:before {
+  content: "\e92c";
+}
+.bml-logo-shopee:before {
+  content: "\e92d";
+}
+.bml-logo-tokopedia:before {
+  content: "\e92e";
+}
+.bml-lokasi:before {
+  content: "\e92f";
+}
+.bml-love:before {
+  content: "\e930";
+}
+.bml-mahkota:before {
+  content: "\e931";
+}
+.bml-mata:before {
+  content: "\e932";
+}
+.bml-menu:before {
+  content: "\e933";
+}
+.bml-minus:before {
+  content: "\e934";
+}
+.bml-minus-bulat:before {
+  content: "\e935";
+}
+.bml-mobil-box:before {
+  content: "\e936";
+}
+.bml-notifikasi:before {
+  content: "\e937";
+}
+.bml-ok-jempol:before {
+  content: "\e938";
+}
+.bml-os-ceklis:before {
+  content: "\e939";
+}
+.bml-pelindung-ceklis:before {
+  content: "\e93a";
+}
+.bml-pelindung-re:before {
+  content: "\e93b";
+}
+.bml-plus:before {
+  content: "\e93c";
+}
+.bml-plus-bulat:before {
+  content: "\e93d";
+}
+.bml-promo:before {
+  content: "\e93e";
+}
+.bml-share:before {
+  content: "\e93f";
+}
+.bml-shopee:before {
+  content: "\e940";
+}
+.bml-spesifikasi-produk:before {
+  content: "\e941";
+}
+.bml-tag:before {
+  content: "\e942";
+}
+.bml-text-blibli:before {
+  content: "\e943";
+}
+.bml-text-bukalapak:before {
+  content: "\e944";
+}
+.bml-text-elevenia:before {
+  content: "\e945";
+}
+.bml-text-facebook-marketplace:before {
+  content: "\e946";
+}
+.bml-text-lazada:before {
+  content: "\e947";
+}
+.bml-text-shopee:before {
+  content: "\e948";
+}
+.bml-text-tokopedia:before {
+  content: "\e949";
+}
+.bml-toko:before {
+  content: "\e94a";
+}
+.bml-tutup:before {
+  content: "\e94b";
+}
+.bml-twitter:before {
+  content: "\e94c";
+}
+.bml-twitter-bulat:before {
+  content: "\e94d";
+}
+.bml-ulasan-produk:before {
+  content: "\e94e";
+}
+.bml-waktu:before {
+  content: "\e94f";
+}
+.bml-waktu-pasir:before {
+  content: "\e950";
+}
+.bml-whatsapp:before {
+  content: "\e951";
+}
+.bml-x-bulat:before {
+  content: "\e952";
+}
