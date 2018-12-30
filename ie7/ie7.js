@@ -73,6 +73,7 @@
 		'bml-info-bulat2': '&#xe934;',
 		'bml-kategori': '&#xe935;',
 		'bml-kg': '&#xe959;',
+		'bml-keranjang-belanja': '&#xe95b;',
 		'bml-komentar': '&#xe936;',
 		'bml-lokasi': '&#xe937;',
 		'bml-love': '&#xe938;',

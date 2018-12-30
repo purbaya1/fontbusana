@@ -178,6 +178,9 @@
 .bml-kg {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
 }
+.bml-keranjang-belanja {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95b;');
+}
 .bml-komentar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
 }
