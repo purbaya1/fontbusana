@@ -175,6 +175,9 @@
 .bml-kategori {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe935;');
 }
+.bml-kg {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
+}
 .bml-komentar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
 }
@@ -208,8 +211,8 @@
 .bml-ok-jempol {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe940;');
 }
-.bml-pallete {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
+.bml-palette {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95a;');
 }
 .bml-os-ceklis {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe941;');

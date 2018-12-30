@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Font-Bayu-Media-Busana-Light';
-  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?dh3g2m');
-  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?dh3g2m#iefix') format('embedded-opentype'),
-    url('fonts/Font-Bayu-Media-Busana-Light.ttf?dh3g2m') format('truetype'),
-    url('fonts/Font-Bayu-Media-Busana-Light.woff?dh3g2m') format('woff'),
-    url('fonts/Font-Bayu-Media-Busana-Light.svg?dh3g2m#Font-Bayu-Media-Busana-Light') format('svg');
+  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?8vpz8e');
+  src:  url('fonts/Font-Bayu-Media-Busana-Light.eot?8vpz8e#iefix') format('embedded-opentype'),
+    url('fonts/Font-Bayu-Media-Busana-Light.ttf?8vpz8e') format('truetype'),
+    url('fonts/Font-Bayu-Media-Busana-Light.woff?8vpz8e') format('woff'),
+    url('fonts/Font-Bayu-Media-Busana-Light.svg?8vpz8e#Font-Bayu-Media-Busana-Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -201,6 +201,9 @@ i {
 .bml-kategori:before {
   content: "\e935";
 }
+.bml-kg:before {
+  content: "\e959";
+}
 .bml-komentar:before {
   content: "\e936";
 }
@@ -234,8 +237,8 @@ i {
 .bml-ok-jempol:before {
   content: "\e940";
 }
-.bml-pallete:before {
-  content: "\e959";
+.bml-palette:before {
+  content: "\e95a";
 }
 .bml-os-ceklis:before {
   content: "\e941";
